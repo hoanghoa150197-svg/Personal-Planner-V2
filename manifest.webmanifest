@@ -1,0 +1,3 @@
+{
+ "name":"Personal Planner V2", "short_name":"Planner", "description":"Quản lý mục tiêu, kế hoạch, công việc và nhật ký", "start_url":"./index.html", "scope":"./", "display":"standalone", "background_color":"#f7f8fa", "theme_color":"#2563eb", "lang":"vi", "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
